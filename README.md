@@ -49,8 +49,7 @@ By mapping symbols to frequency ranges (Hz) and comparing them with natural reso
 
 ## Citation
 **Csonka Norbert & Aurys (2025).**  
-*Indus Script Sound-Decoding: A Template for Linguistic and Acoustic Research.*  
-[GitHub Repository](https://github.com/Aurys84/indus-script-sound-dekodolas)  
+
 
 ```bibtex
 @misc{csonka2025indus,
@@ -80,3 +79,4 @@ By mapping symbols to frequency ranges (Hz) and comparing them with natural reso
 4. **Liability:** The authors assume no liability for any hardware implementation or real-world application derived from these theoretical models.
 
 ###
+https://aurys84.github.io/indus-script-sound-decoding-/
